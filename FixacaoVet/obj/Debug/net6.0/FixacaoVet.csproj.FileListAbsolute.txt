@@ -1,0 +1,15 @@
+C:\temp\projetos\FixacaoVet\FixacaoVet\bin\Debug\net6.0\FixacaoVet.exe
+C:\temp\projetos\FixacaoVet\FixacaoVet\bin\Debug\net6.0\FixacaoVet.deps.json
+C:\temp\projetos\FixacaoVet\FixacaoVet\bin\Debug\net6.0\FixacaoVet.runtimeconfig.json
+C:\temp\projetos\FixacaoVet\FixacaoVet\bin\Debug\net6.0\FixacaoVet.dll
+C:\temp\projetos\FixacaoVet\FixacaoVet\bin\Debug\net6.0\FixacaoVet.pdb
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.csproj.AssemblyReference.cache
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.AssemblyInfoInputs.cache
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.AssemblyInfo.cs
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.csproj.CoreCompileInputs.cache
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.dll
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\refint\FixacaoVet.dll
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.pdb
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\FixacaoVet.genruntimeconfig.cache
+C:\temp\projetos\FixacaoVet\FixacaoVet\obj\Debug\net6.0\ref\FixacaoVet.dll
